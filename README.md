@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sanjay prajapat (@AspireSsp)
-- 👀 I’m interested in fullStack web development (MERN Stack) and compititive coding in c++ (3 star on codechef), reading books, visiting in natural places, singing, designing.
+- 👀 I’m interested in fullStack web development (MERN Stack) and compititive coding in c++ (2 star on codechef), reading books, visiting in natural places, singing, designing.
 - 🌱 I’m currently learning how to live openly, advance concepts of mern and deep knowledge of trees and graph in data structure
 - 💞️ I’m looking to collaborate on real world project.
 - 📫 How to reach me here is my linkedIn profile link.  https://www.linkedin.com/in/sanjay-prajapat-4187a0208
