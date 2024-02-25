@@ -1,6 +1,10 @@
 - 👋 Hi, I’m sanjay prajapat (@AspireSsp)
-- 👀 I’m interested in fullStack web development (MERN Stack) and compititive coding in c++ (2 star on codechef), reading books, visiting in natural places, singing, designing.
-- 🌱 I’m currently learning how to live openly, advance concepts of mern and deep knowledge of trees and graph in data structure
+I'm a passionate FullStack Developer with expertise in:
+
+- **Languages:** JavaScript, TypeScript, Dart, c++, pyhton
+- **Frameworks:** Node.js, Next.js, React.js, Express.js, React Native, Flutter
+- **Databases:** MongoDB, PostgreSQL, SQL
+  
 - 💞️ I’m looking to collaborate on real world project.
 - 📫 How to reach me here is my linkedIn profile link.  https://www.linkedin.com/in/sanjay-prajapat-4187a0208
 
