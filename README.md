@@ -4,9 +4,11 @@ I'm a passionate FullStack Developer with expertise in:
 - **Languages:** JavaScript, TypeScript, Dart, c++, pyhton
 - **Frameworks:** Node.js, Next.js, React.js, Express.js, React Native, Flutter
 - **Databases:** MongoDB, PostgreSQL, SQL
+- **Web3:** Solidity, etherium, hardhat
   
 - 💞️ I’m looking to collaborate on real world project.
 - 📫 How to reach me here is my linkedIn profile link.  https://www.linkedin.com/in/sanjay-prajapat-4187a0208
+- 📫 My Portfolio link.  https://sanjay-portfolio2.netlify.app/
 
 <!---
 AspireSsp/AspireSsp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
