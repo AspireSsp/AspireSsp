@@ -6,7 +6,7 @@ I'm a passionate FullStack Developer with expertise in:
 - **Databases:** MongoDB, PostgreSQL, SQL
 - **Web3:** Solidity, etherium, hardhat
   
-- 💞️ I’m looking to collaborate on real world project.
+- 💞️ I’m looking to collaborate on Open source project.
 - 📫 How to reach me here is my linkedIn profile link.  https://www.linkedin.com/in/sanjay-prajapat-4187a0208
 - 📫 My Portfolio link.  https://sanjay-portfolio2.netlify.app/
 
